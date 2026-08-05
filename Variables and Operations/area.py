@@ -11,6 +11,3 @@ print (pool[0])  # Print the area
 print ("The perimeter is:")
 print (pool[1])  # Print the perimeter
 
-/    # normal division
-//   # integer division
-%    # remainder
